@@ -11,7 +11,7 @@ dom.wrap(test, div3)
 const nodes = dom.empty(window.empty)
 console.log(nodes)
 
-dom.attr(test, 'title', 'Hi, I am Frank')
+dom.attr(test, 'title', 'Hi, I am Parker')
 const title = dom.attr(test, 'title')
 console.log(`title: ${title}`)
 
